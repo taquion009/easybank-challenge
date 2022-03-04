@@ -2,6 +2,4 @@
 
 it's the Frontend Mentor challenge EasyBAnk complete in vanilla
 
-- html
-- css
-- javascript
+- React
